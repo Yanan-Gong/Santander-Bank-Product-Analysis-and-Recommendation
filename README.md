@@ -1,7 +1,7 @@
 # Santander-Bank-Product-Analysis-and-Recommendation
 This is a final project of Data Mining course @Uva. Santander Bank offers an array of financial services and products for customers. Target is to find methods to improve recommendation system. Dataset has 1.4 million samples, for 956 thousand customers in Santander Bank worldwide from January 2015 to May 2016. 
 
-There are two main fearues we achieved:
+There are two main features we achieved:
 
 #### User Analysis: 
 
